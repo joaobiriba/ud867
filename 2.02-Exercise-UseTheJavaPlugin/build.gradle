@@ -1,4 +1,4 @@
-/*
+apply plugin: 'java'/*
 
 Let's use the Java plugin to create a JAR! We've provided a simple project
 with a single class for you to practice with.
